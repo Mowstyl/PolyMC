@@ -201,7 +201,7 @@ void AccountListPage::on_actionAddOffline_triggered()
         );
         return;
     }
-	 */
+	*/
 
     MinecraftAccountPtr account = OfflineLoginDialog::newAccount(
         this,
